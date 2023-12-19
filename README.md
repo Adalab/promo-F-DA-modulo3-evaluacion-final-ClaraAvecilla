@@ -9,7 +9,9 @@
 
     - Fase 3: Análisis descriptivo y prueba estadística A/B testing.
 
-    **´Nota´**: La Fase 2 se encuenra en jupiter "Visualización"
+    **´Nota´**: 
+    La Fase 1 y 3 se encuentran el el jupiter "evaluacion_final_m3"
+    La Fase 2 se encuentra en jupiter "Visualización"
 
 *Importación de librerías:*
  
