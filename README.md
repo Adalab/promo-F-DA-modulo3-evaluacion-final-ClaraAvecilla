@@ -1,6 +1,3 @@
-# promo-F-DA-modulo3-evaluacion-final-ClaraAvecilla
-
-# promo-F-DA-modulo3-evaluacion-intermedia-ClaraAvecilla
 
 # Readme
 
