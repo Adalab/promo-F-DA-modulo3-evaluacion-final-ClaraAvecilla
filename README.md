@@ -30,6 +30,7 @@
 
 
 **Descripción de los DataFrame**
+
 1- Datos de la actividad de vuelos de los clientes (Customer Loyalty History.csv):
 
 Este DataFrame proporciona información sobre la actividad de vuelos que efectúan los clientes en una aerolínea, con un enfoque en las estadísticas mensuales de vuelo y puntos acumulados.
